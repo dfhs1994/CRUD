@@ -3,7 +3,7 @@ session_start();
 ?>
 <html>
 	<head>
-		<title>.: VER, AGREGAR, ACTUALIZAR Y ELIMINAR :.</title>
+		<title>.: VER, AGREGAR, ACTUALIZAR Y ELIMINAR BY FERNANDO RIFFO:.</title>
 		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css">
 	</head>
 	<body>
