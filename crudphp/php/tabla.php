@@ -4,6 +4,10 @@ include "conexion.php";
 
 $user_id=null;
 $sql1= "select * from person";
+//$sql1= "select * from person where person.lastname like '%ma%'"; // trae todos los datos que contenga ma en su apellido
+//$sql1= "select * from person where person.lastname like '%riffo%'"; //trae todos los datos de apellido riffo
+//$sql1= "select * from person where person.phone =''";  //trae los datos que no tienen numero
+
 $query = $con->query($sql1);
 ?>
 
