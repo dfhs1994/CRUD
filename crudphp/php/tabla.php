@@ -19,7 +19,7 @@ $query = $con->query($sql1);
 	<th>Email</th>
 	<th>Direccion</th>
 	<th>Telefono</th>
-	<th>sexo</th>
+	<th>Sexo</th>
 	<th></th>
 </thead>
 <?php while ($r=$query->fetch_array()):?>
