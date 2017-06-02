@@ -8,7 +8,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-    <a class="navbar-brand" href="./"><b>CRUD PHP MYSQL</b></a>
+    <a class="navbar-brand" href="./"><b>Wena wena!</b></a>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->
